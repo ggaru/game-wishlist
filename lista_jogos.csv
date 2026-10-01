@@ -1,0 +1,401 @@
+ID,Nome,Plataforma,Finalizado
+1,God of War (2005),PS2,Sim
+2,God of War II (2007),PS2,Não
+3,God of War: Chains of Olympus (2008),PSP,Não
+4,God of War III (2010),PS3,Não
+5,God of War: Ghost of Sparta (2010),PSP,Não
+6,God of War: Ascension (2013),PS3,Não
+7,God of War (2018),PS4,Não
+8,God of War Ragnarök (2022),PS5,Não
+9,Fallout (1997),PC,Não
+10,Fallout 2 (1998),PC,Não
+11,Fallout 3 (2008),PC,Não
+12,Fallout: New Vegas (2010),PC,Sim
+13,Fallout 4 (2015),PC,Não
+14,Fallout 76 (2018),PC,Não
+15,Naruto: Ultimate Ninja Storm (2008),PS3,Sim
+16,Naruto Shippuden: Ultimate Ninja Storm 2 (2010),PS3,Sim
+17,Naruto Shippuden: Ultimate Ninja Storm Generations (2012),PS3,Não
+18,Naruto Shippuden: Ultimate Ninja Storm 3 (2013),PS3,Sim
+19,Naruto Shippuden: Ultimate Ninja Storm Revolution (2014),PS3,Não
+20,Naruto Shippuden: Ultimate Ninja Storm 4 (2016),PS4,Não
+21,Naruto: Ultimate Ninja (2003),PS2,Sim
+22,Naruto: Ultimate Ninja 2 (2004),PS2,Sim
+23,Naruto: Ultimate Ninja 3 (2005),PS2,Sim
+24,Naruto: Ultimate Ninja Heroes (2007),PSP,Não
+25,Naruto Shippuden: Ultimate Ninja 4 (2007),PS2,Não
+26,Naruto: Ultimate Ninja Heroes 2 (2008),PSP,Não
+27,Naruto Shippuden: Ultimate Ninja 5 (2009),PS2,Não
+28,Kingdom Hearts (2002),PS2,Não
+29,Kingdom Hearts: Chain of Memories (2004),GBA,Não
+30,Kingdom Hearts II (2005),PS2,Não
+31,Kingdom Hearts: 358/2 Days (2009),DS,Não
+32,Kingdom Hearts: Birth by Sleep (2010),PSP,Não
+33,Kingdom Hearts: Re:coded (2010),DS,Não
+34,Kingdom Hearts 3D: Dream Drop Distance (2012),3DS,Não
+35,Kingdom Hearts 0.2: Birth by Sleep -A fragmentary passage- (2017),PS4,Não
+36,Kingdom Hearts III (2019),PS4,Não
+37,Kingdom Hearts: Melody of Memory (2020),PS4,Não
+38,The Walking Dead: Season One (2012),PC,Sim
+39,The Walking Dead: 400 Days (2013),PC,Sim
+40,The Walking Dead: Season Two (2014),PC,Sim
+41,The Walking Dead: Michonne (2016),PC,Sim
+42,The Walking Dead: A New Frontier (2016),PC,Sim
+43,The Walking Dead: The Final Season (2018),PC,Não
+44,Persona (1996),PS1,Não
+45,Persona 2: Innocent Sin (1999),PS1,Não
+46,Persona 2: Eternal Punishment (2000),PS1,Não
+47,Persona 3 (2006),PS2,Não
+48,Persona 4 (2008),PS2,Não
+49,Persona 5 (2016),PS3,Não
+50,Yakuza (2005),PS2,Não
+51,Yakuza 2 (2006),PS2,Não
+52,Yakuza 3 (2009),PS3,Não
+53,Yakuza 4 (2010),PS3,Não
+54,Yakuza 5 (2012),PS3,Não
+55,Yakuza 0 (2015),PS3,Não
+56,Yakuza Kiwami (2016),PS4,Não
+57,Yakuza 6: The Song of Life (2016),PS4,Não
+58,Yakuza Kiwami 2 (2017),PS4,Não
+59,Yakuza: Like a Dragon (2020),PS4,Não
+60,Like a Dragon: Ishin! (2023),PS4,Não
+61,Like a Dragon Gaiden: The Man Who Erased His Name (2023),PS4,Não
+62,Like a Dragon: Infinite Wealth (2024),PS5,Não
+63,Like a Dragon: Pirate Yakuza in Hawaii (2025),PS5,Não
+64,The Legend of Zelda (1986),NES,Não
+65,Zelda II: The Adventure of Link (1987),NES,Não
+66,The Legend of Zelda: A Link to the Past (1991),SNES,Sim
+67,The Legend of Zelda: Link's Awakening (1993),Game Boy,Não
+68,The Legend of Zelda: Ocarina of Time (1998),N64,Não
+69,The Legend of Zelda: Majora's Mask (2000),N64,Não
+70,The Legend of Zelda: Oracle of Seasons (2001),GBC,Não
+71,The Legend of Zelda: Oracle of Ages (2001),GBC,Não
+72,The Legend of Zelda: Four Swords (2002),GBA,Não
+73,The Legend of Zelda: The Wind Waker (2002),GameCube,Não
+74,The Legend of Zelda: Four Swords Adventures (2004),GameCube,Não
+75,The Legend of Zelda: The Minish Cap (2004),GBA,Não
+76,The Legend of Zelda: Twilight Princess (2006),GameCube/Wii,Não
+77,The Legend of Zelda: Phantom Hourglass (2007),DS,Não
+78,The Legend of Zelda: Spirit Tracks (2009),DS,Não
+79,The Legend of Zelda: Skyward Sword (2011),Wii,Não
+80,The Legend of Zelda: A Link Between Worlds (2013),3DS,Não
+81,The Legend of Zelda: Tri Force Heroes (2015),3DS,Não
+82,The Legend of Zelda: Breath of the Wild (2017),Switch,Não
+83,The Legend of Zelda: Tears of the Kingdom (2023),Switch,Não
+84,The Legend of Zelda: Echoes of Wisdom (2024),Switch,Não
+85,BioShock (2007),Xbox 360,Não
+86,BioShock 2 (2010),PS3,Não
+87,BioShock Infinite (2013),PS3,Não
+88,Assassin's Creed (2007),Xbox 360,Sim
+89,Assassin's Creed II (2009),PS3,Sim
+90,Assassin's Creed: Brotherhood (2010),PS3,Não
+91,Assassin's Creed: Revelations (2011),PS3,Não
+92,Assassin's Creed III (2012),PS3,Não
+93,Assassin's Creed III: Liberation (2012),PS Vita,Sim
+94,Assassin's Creed IV: Black Flag (2013),PS3,Não
+95,Assassin's Creed: Rogue (2014),PS3,Não
+96,Assassin's Creed: Unity (2014),PS4,Não
+97,Assassin's Creed: Syndicate (2015),PS4,Não
+98,Assassin's Creed: Origins (2017),PS4,Não
+99,Assassin's Creed: Odyssey (2018),PS4,Não
+100,Assassin's Creed: Valhalla (2020),PS4,Não
+101,Assassin's Creed: Mirage (2023),PS5,Não
+102,Assassin's Creed: Shadows (2025),PS5,Não
+103,Mass Effect (2007),Xbox 360,Não
+104,Mass Effect 2 (2010),PS3,Não
+105,Mass Effect 3 (2012),PS3,Não
+106,Mass Effect: Andromeda (2017),PS4,Não
+107,Dead Space (2008),PS3,Não
+108,Dead Space 2 (2011),PS3,Não
+109,Dead Space 3 (2013),PS3,Não
+110,Control (2019),PS4,Não
+111,Dynasty Warriors (1997),PS1,Não
+112,Dynasty Warriors 2 (2000),PS2,Não
+113,Dynasty Warriors 3 (2001),PS2,Não
+114,Dynasty Warriors 4 (2003),PS2,Não
+115,Dynasty Warriors 5 (2005),PS2,Não
+116,Dynasty Warriors 6 (2007),PS3,Não
+117,Dynasty Warriors 7 (2011),PS3,Não
+118,Dynasty Warriors 8 (2013),PS3,Não
+119,Dynasty Warriors 9 (2018),PS4,Não
+120,Dynasty Warriors: Origins (2025),PS5,Não
+121,Samurai Warriors (2004),PS2,Não
+122,Samurai Warriors 2 (2006),PS2,Não
+123,Samurai Warriors 3 (2009),Wii,Não
+124,Samurai Warriors 4 (2014),PS3,Não
+125,Samurai Warriors 5 (2021),PS4,Não
+126,Warriors Orochi (2007),PS2,Não
+127,Warriors Orochi 2 (2008),PS2,Não
+128,Warriors Orochi 3 (2011),PS3,Não
+129,Warriors Orochi 4 (2018),PS4,Não
+130,Nioh (2017),PS4,Não
+131,Nioh 2 (2020),PS4,Não
+132,Demon's Souls (2009),PS3,Não
+133,Dark Souls (2011),PS3,Não
+134,Dark Souls II (2014),PS3,Não
+135,Dark Souls III (2016),PS4,Não
+136,Spider-Man (2000),PS1,Não
+137,Spider-Man 2: Enter Electro (2001),PS1,Não
+138,Spider-Man: The Movie (2002),PS2,Não
+139,Spider-Man 2 (2004),PS2,Não
+140,Ultimate Spider-Man (2005),PS2,Não
+141,Spider-Man 3 (2007),PS2,Sim
+142,Spider-Man: Friend or Foe (2007),PS2,Não
+143,Spider-Man: Web of Shadows (2008),PS3,Não
+144,Spider-Man: Shattered Dimensions (2010),PS3,Não
+145,Spider-Man: Edge of Time (2011),PS3,Não
+146,The Amazing Spider-Man (2012),PS3,Não
+147,The Amazing Spider-Man 2 (2014),PS4,Não
+148,Marvel's Spider-Man (2018),PS4,Não
+149,Marvel's Spider-Man: Miles Morales (2020),PS4,Sim
+150,Marvel's Spider-Man 2 (2023),PS5,Não
+151,Red Dead Revolver (2004),PS2,Não
+152,Red Dead Redemption (2010),PS3,Não
+153,Red Dead Redemption 2 (2018),PS4,Não
+154,Sleeping Dogs (2012),PS3,Não
+155,The Need for Speed (1994),PC,Não
+156,Need for Speed II (1997),PS1,Não
+157,Need for Speed III: Hot Pursuit (1998),PS1,Não
+158,Need for Speed: High Stakes (1999),PS1,Não
+159,Need for Speed: Porsche Unleashed (2000),PC,Não
+160,Need for Speed: Hot Pursuit 2 (2002),PS2,Não
+161,Need for Speed: Underground (2003),PS2,Sim
+162,Need for Speed: Underground 2 (2004),PS2,Não
+163,Need for Speed: Most Wanted (2005),PS2,Não
+164,Need for Speed: Carbon (2006),PS2,Não
+165,Need for Speed: ProStreet (2007),PS3,Não
+166,Need for Speed: Undercover (2008),PS3,Não
+167,Need for Speed: Shift (2009),PS3,Não
+168,Need for Speed: Nitro (2009),Wii,Não
+169,Need for Speed: Hot Pursuit (2010),PS3,Não
+170,Shift 2: Unleashed (2011),PS3,Não
+171,Need for Speed: The Run (2011),PS3,Não
+172,Need for Speed: Rivals (2013),PS4,Não
+173,Need for Speed (2015),PS4,Não
+174,Need for Speed: Payback (2017),PS4,Não
+175,Need for Speed: Heat (2019),PS4,Não
+176,Need for Speed: Unbound (2022),PS5,Não
+177,Bully (2006),PS2,Não
+178,Okami (2006),PS2,Não
+179,Final Fantasy (1987),NES,Não
+180,Final Fantasy II (1988),NES,Não
+181,Final Fantasy III (1990),NES,Não
+182,Final Fantasy IV (1991),SNES,Não
+183,Final Fantasy V (1992),SNES,Não
+184,Final Fantasy VI (1994),SNES,Não
+185,Final Fantasy VII (1997),PS1,Não
+186,Final Fantasy VIII (1999),PS1,Não
+187,Final Fantasy IX (2000),PS1,Não
+188,Final Fantasy X (2001),PS2,Não
+189,Final Fantasy XII (2006),PS2,Não
+190,Final Fantasy XIII (2009),PS3,Não
+191,Final Fantasy XV (2016),PS4,Não
+192,Final Fantasy XVI (2023),PS5,Não
+193,Breath of Fire (1993),SNES,Sim
+194,Breath of Fire II (1994),SNES,Não
+195,Breath of Fire III (1997),PS1,Não
+196,Breath of Fire IV (2000),PS1,Não
+197,Breath of Fire: Dragon Quarter (2002),PS2,Não
+198,Mother (1989),NES,Não
+199,Mother 2 / EarthBound (1994),SNES,Não
+200,Mother 3 (2006),GBA,Não
+201,Chrono Trigger (1995),SNES,Não
+202,Summon Night: Swordcraft Story (2003),GBA,Não
+203,Summon Night: Swordcraft Story 2 (2004),GBA,Não
+204,The Witcher (2007),PC,Sim
+205,The Witcher 2: Assassins of Kings (2011),PC,Não
+206,The Witcher 3: Wild Hunt (2015),PC,Não
+207,Graveyard Keeper (2018),PC,Não
+208,Stardew Valley (2016),PC,Não
+209,Half-Life (1998),PC,Não
+210,Half-Life: Opposing Force (1999),PC,Não
+211,Half-Life: Blue Shift (2001),PC,Sim
+212,Half-Life: Source (2004),PC,Sim
+213,Half-Life 2 (2004),PC,Sim
+214,Half-Life 2: Episode One (2006),PC,Sim
+215,Half-Life 2: Episode Two (2007),PC,Sim
+216,Half-Life: Alyx (2020),PC,Não
+217,Horizon Zero Dawn (2017),PS4,Não
+218,Horizon Forbidden West (2022),PS5,Não
+219,Ghost of Tsushima (2020),PS4,Não
+220,Ghost of Yotei (2025),PS5,Não
+221,Sekiro: Shadows Die Twice (2019),PS4,Não
+222,Borderlands (2009),PS3,Sim
+223,Borderlands 2 (2012),PS3,Não
+224,Borderlands: The Pre-Sequel (2014),PS3,Não
+225,Borderlands 3 (2019),PS4,Não
+226,Borderlands 4 (2025),PS5,Não
+227,Death Stranding (2019),PS4,Não
+228,Death Stranding 2: On the Beach (2025),PS5,Não
+229,Higurashi When They Cry: Onikakushi-hen (2002),PC,Não
+230,Higurashi When They Cry: Watanagashi-hen (2002),PC,Não
+231,Higurashi When They Cry: Tatarigoroshi-hen (2003),PC,Não
+232,Higurashi When They Cry: Himatsubushi-hen (2003),PC,Não
+233,Higurashi When They Cry: Meakashi-hen (2004),PC,Não
+234,Higurashi When They Cry: Tsumihoroboshi-hen (2005),PC,Não
+235,Higurashi When They Cry: Minagoroshi-hen (2006),PC,Não
+236,Higurashi When They Cry: Matsuribayashi-hen (2006),PC,Não
+237,Danganronpa: Trigger Happy Havoc (2010),PSP,Sim
+238,Danganronpa 2: Goodbye Despair (2012),PSP,Sim
+239,Danganronpa V3: Killing Harmony (2017),PS4,Não
+240,Monster Hunter (2004),PS2,Não
+241,Monster Hunter G (2005),PS2,Não
+242,Monster Hunter Freedom (2005),PSP,Não
+243,Monster Hunter 2: Dos (2006),PS2,Não
+244,Monster Hunter Freedom 2 (2007),PSP,Não
+245,Monster Hunter Freedom Unite (2008),PSP,Não
+246,Monster Hunter Tri (2009),Wii,Não
+247,Monster Hunter Portable 3rd (2010),PSP,Não
+248,Monster Hunter 4 (2013),3DS,Não
+249,Monster Hunter 4 Ultimate (2014),3DS,Não
+250,Monster Hunter Generations (2015),3DS,Não
+251,Monster Hunter Generations Ultimate (2017),Switch,Não
+252,Monster Hunter World (2018),PS4,Não
+253,Monster Hunter Rise (2021),Switch,Não
+254,Monster Hunter Wilds (2025),PS5,Não
+255,Hitman: Codename 47 (2000),PC,Não
+256,Hitman 2: Silent Assassin (2002),PS2,Não
+257,Hitman: Contracts (2004),PS2,Não
+258,Hitman: Blood Money (2006),PS2,Sim
+259,Hitman: Absolution (2012),PS3,Não
+260,Hitman (2016),PS4,Não
+261,Hitman 2 (2018),PS4,Não
+262,Hitman 3 / World of Assassination (2021),PS5,Não
+263,Manhunt (2003),PS2,Não
+264,Manhunt 2 (2007),PS2,Não
+265,Silent Hill (1999),PS1,Não
+266,Silent Hill 2 (2001),PS2,Não
+267,Silent Hill 3 (2003),PS2,Não
+268,Silent Hill 4: The Room (2004),PS2,Não
+269,Silent Hill: Origins (2007),PSP,Não
+270,Silent Hill: Homecoming (2008),PS3,Não
+271,Silent Hill: Shattered Memories (2009),Wii,Não
+272,Silent Hill: Downpour (2012),PS3,Não
+273,Silent Hill f (2025),PS5,Não
+274,Onimusha: Warlords (2001),PS2,Não
+275,Onimusha 2: Samurai's Destiny (2002),PS2,Não
+276,Onimusha 3: Demon Siege (2004),PS2,Não
+277,Onimusha: Dawn of Dreams (2006),PS2,Não
+278,Diablo (1997),PC,Não
+279,Diablo II (2000),PC,Não
+280,Diablo III (2012),PC,Não
+281,Diablo IV (2023),PC,Não
+282,Avatar: The Last Airbender (2006),PS2,Não
+283,Avatar: The Last Airbender – The Burning Earth (2007),PS2,Não
+284,Avatar: The Last Airbender – Into the Inferno (2008),PS2,Não
+285,Air Combat (1995),PS1,Não
+286,Ace Combat 2 (1997),PS1,Não
+287,Ace Combat 3: Electrosphere (1999),PS1,Não
+288,Ace Combat 04: Shattered Skies (2001),PS2,Não
+289,Ace Combat 5: The Unsung War (2004),PS2,Não
+290,Ace Combat Zero: The Belkan War (2006),PS2,Não
+291,Ace Combat 6: Fires of Liberation (2007),Xbox 360,Não
+292,Ace Combat 7: Skies Unknown (2019),PS4,Não
+293,Crash Bandicoot (1996),PS1,Não
+294,Crash Bandicoot 2: Cortex Strikes Back (1997),PS1,Não
+295,Crash Bandicoot: Warped (1998),PS1,Não
+296,Crash Team Racing (1999),PS1,Não
+297,Crash Bandicoot: The Wrath of Cortex (2001),PS2,Não
+298,Crash Nitro Kart (2003),PS2,Não
+299,Crash Twinsanity (2004),PS2,Não
+300,Crash of the Titans (2007),PS2,Não
+301,Crash Bandicoot 4: It's About Time (2020),PS4,Não
+302,Castlevania (1986),NES,Não
+303,Castlevania II: Simon's Quest (1987),NES,Não
+304,Castlevania III: Dracula's Curse (1989),NES,Não
+305,Super Castlevania IV (1991),SNES,Não
+306,Castlevania: Rondo of Blood (1993),PC Engine,Não
+307,Castlevania: Bloodlines (1994),Genesis,Não
+308,Castlevania: Symphony of the Night (1997),PS1,Não
+309,Castlevania: Circle of the Moon (2001),GBA,Não
+310,Castlevania: Harmony of Dissonance (2002),GBA,Não
+311,Castlevania: Aria of Sorrow (2003),GBA,Não
+312,Castlevania: Lament of Innocence (2003),PS2,Não
+313,Castlevania: Dawn of Sorrow (2005),DS,Não
+314,Castlevania: Curse of Darkness (2005),PS2,Não
+315,Castlevania: Portrait of Ruin (2006),DS,Não
+316,Castlevania: Order of Ecclesia (2008),DS,Não
+317,Castlevania: Lords of Shadow (2010),PS3,Não
+318,Castlevania: Lords of Shadow 2 (2014),PS3,Não
+319,Dark Cloud (2000),PS2,Não
+320,Dark Chronicle / Dark Cloud 2 (2002),PS2,Não
+321,Destroy All Humans! (2005),PS2,Não
+322,Destroy All Humans! 2 (2006),PS2,Não
+323,Destroy All Humans! Path of the Furon (2008),PS3,Não
+324,Downhill Domination (2003),PS2,Não
+325,Fatal Frame (2001),PS2,Não
+326,Fatal Frame II: Crimson Butterfly (2003),PS2,Não
+327,Fatal Frame III: The Tormented (2005),PS2,Não
+328,Fatal Frame IV: Mask of the Lunar Eclipse (2008),Wii,Não
+329,Fatal Frame: Maiden of Black Water (2014),Wii U,Não
+330,Jak and Daxter: The Precursor Legacy (2001),PS2,Não
+331,Jak II (2003),PS2,Não
+332,Jak 3 (2004),PS2,Não
+333,Jak X: Combat Racing (2005),PS2,Não
+334,Daxter (2006),PSP,Não
+335,Kung Fu Panda (2008),PS2,Não
+336,Kung Fu Panda 2 (2011),PS3,Não
+337,Obscure (2004),PS2,Não
+338,Obscure: The Aftermath (2007),PS2,Não
+339,Prince of Persia (1989),Apple II,Não
+340,Prince of Persia 2: The Shadow and the Flame (1993),DOS,Não
+341,Prince of Persia 3D (1999),PC,Não
+342,Prince of Persia: The Sands of Time (2003),PS2,Não
+343,Prince of Persia: Warrior Within (2004),PS2,Não
+344,Prince of Persia: The Two Thrones (2005),PS2,Não
+345,Prince of Persia (2008),PS3,Não
+346,Prince of Persia: The Forgotten Sands (2010),PS3,Não
+347,Shinobido: Way of the Ninja (2005),PS2,Não
+348,Shinobido 2: Revenge of Zen (2011),PSP,Não
+349,Tenchu: Stealth Assassins (1998),PS1,Não
+350,Tenchu 2: Birth of the Stealth Assassins (2000),PS1,Não
+351,Tenchu: Wrath of Heaven (2003),PS2,Não
+352,Tenchu: Fatal Shadows (2004),PS2,Não
+353,Tenchu: Shadow Assassins (2009),Wii,Não
+354,Grand Theft Auto (1997),PC,Não
+355,Grand Theft Auto 2 (1999),PS1,Não
+356,Grand Theft Auto III (2001),PS2,Não
+357,Grand Theft Auto: Vice City (2002),PS2,Não
+358,Grand Theft Auto: San Andreas (2004),PS2,Não
+359,Grand Theft Auto: Liberty City Stories (2005),PSP,Não
+360,Grand Theft Auto: Vice City Stories (2006),PSP,Não
+361,Grand Theft Auto IV (2008),PS3,Não
+362,Grand Theft Auto: Chinatown Wars (2009),DS,Não
+363,Grand Theft Auto V (2013),PS3,Não
+364,LEGO Island (1997),PC,Não
+365,LEGO Racers (1999),PS1,Não
+366,LEGO Island 2: The Brickster's Revenge (2001),PC,Não
+367,LEGO Racers 2 (2001),PC,Não
+368,LEGO Soccer Mania (2002),PC,Não
+369,LEGO Bionicle: The Game (2003),PC,Não
+370,LEGO Star Wars: The Video Game (2005),PS2,Não
+371,LEGO Star Wars II: The Original Trilogy (2006),PS2,Não
+372,LEGO Star Wars: The Complete Saga (2007),PS3,Não
+373,LEGO Indiana Jones: The Original Adventures (2008),PS3,Não
+374,LEGO Batman: The Videogame (2008),PS3,Não
+375,LEGO Indiana Jones 2: The Adventure Continues (2009),PS3,Não
+376,LEGO Rock Band (2009),PS3,Não
+377,LEGO Harry Potter: Years 1-4 (2010),PS3,Não
+378,LEGO Star Wars III: The Clone Wars (2011),PS3,Não
+379,LEGO Pirates of the Caribbean: The Video Game (2011),PS3,Não
+380,LEGO Harry Potter: Years 5-7 (2011),PS3,Não
+381,LEGO Batman 2: DC Super Heroes (2012),PS3,Não
+382,LEGO The Lord of the Rings (2012),PS3,Não
+383,LEGO Marvel Super Heroes (2013),PS3,Não
+384,LEGO The Hobbit (2014),PS4,Não
+385,LEGO Movie Videogame (2014),PS4,Não
+386,LEGO Batman 3: Beyond Gotham (2014),PS4,Não
+387,LEGO Jurassic World (2015),PS4,Não
+388,LEGO Dimensions (2015),PS4,Não
+389,LEGO Marvel's Avengers (2016),PS4,Não
+390,LEGO Star Wars: The Force Awakens (2016),PS4,Não
+391,LEGO Worlds (2017),PS4,Não
+392,LEGO Marvel Super Heroes 2 (2017),PS4,Não
+393,LEGO The Incredibles (2018),PS4,Não
+394,LEGO DC Super-Villains (2018),PS4,Não
+395,LEGO The Movie 2 Videogame (2019),PS4,Não
+396,LEGO Star Wars: The Skywalker Saga (2022),PS5,Não
+397,LEGO 2K Drive (2023),PS5,Não
+398,LEGO Horizon Adventures (2024),PS5,Não
+399,Tales from the Borderlands (2014),PS3,Não
+400,New Tales from the Borderlands (2022),PS5,Não
